@@ -13,3 +13,9 @@
 ![image](https://github.com/windqg/WinDqg/blob/master/images/studentList.PNG)
 
 欢迎新同学
+
+![image](https://github.com/windqg/WinDqg/blob/master/images/addStudent.PNG)
+
+修改学生信息
+
+![image](https://github.com/windqg/WinDqg/blob/master/images/editStudent.PNG)
